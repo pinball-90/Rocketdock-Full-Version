@@ -240,4 +240,4 @@ This repository serves as the official landing page for RocketDock. The software
 **Get the most recent version of RocketDock today!**
 
 ---
-**Last updated:** 2026-09-15 22:39:19 UTC
+**Last updated:** 2026-09-16 00:59:31 UTC
